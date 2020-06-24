@@ -15,5 +15,4 @@ A web developer who fantasizes about Type III civilization.
 
 [https://steamcommunity.com/id/Ydyar/](https://steamcommunity.com/id/Ydyar/)
 
-#### This is me minus self-glorification!
-<img src="/assets/avatar.jpg" width="100%">
+ <img src="/assets/avatar.jpg" width="100%">
