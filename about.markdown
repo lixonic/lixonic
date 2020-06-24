@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A web developer who fantasizes about his own abduction by alien life.
+A web developer who fantasizes about Type III civilization.
 
 [https://www.facebook.com/lixon.louis](https://www.facebook.com/lixon.louis)
 
