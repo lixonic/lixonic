@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A web developer who fantasizes about Type III civilization.
+A web developer with an [Advocate Personality](https://www.16personalities.com/infj-personality) who fantasizes about Type III civilization. 
 
-[https://www.facebook.com/lixon.louis](https://www.facebook.com/lixon.louis)
+[https://www.youtube.com/user/lixonicprincipia/videos](https://www.youtube.com/user/lixonicprincipia/videos)
 
 [https://www.instagram.com/lixonlouis/](https://www.instagram.com/lixonlouis/)
 
