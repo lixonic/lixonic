@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forgotten - haiku movie"
+title:  "Forgotten - Short Film"
 date:   2020-07-15 01:13:19 +0530
  
 ---
