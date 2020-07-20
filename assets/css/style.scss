@@ -5,3 +5,24 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+  body{
+    background: #eee url('/assets/bg.jpg');
+    color: #fff;
+    background-attachment: fixed;
+
+    .post-meta, a, .post-content a{
+      color: #4ed597 
+    }
+    a.post-link{
+      color: #fff  
+    }
+  }
+
+  .site-header{
+    border: 0;
+
+    .site-title{
+      color: #fff;
+     }
+  }
