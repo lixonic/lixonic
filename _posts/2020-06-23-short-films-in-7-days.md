@@ -28,7 +28,7 @@ Also his mission status is left to the viewers imagination.
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/l6D8cC6R-HE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 3. Mystic Forest
+## 3. Phasmophobia
 
 As humans we always fear the unknown, and sometimes we fantasize about a deity/demon that haunts us even when we know its unreal; mainly because of our primitive brain. Here the female character is fantasizing her fear  while walking through the woods. The initial scene shows the fog and full moon which are unavoidable elements for a horror genre.  
 
