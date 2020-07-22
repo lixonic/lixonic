@@ -3,7 +3,7 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="{%- if page.url == '/'-%} index {%- endif-%}">
     <div class="one-half with-bg">
       {%- include header.html -%}
     </div>
