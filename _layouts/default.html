@@ -4,16 +4,13 @@
   {%- include head.html -%}
 
   <body class="{%- if page.url == '/'-%} index {%- endif-%}">
-    <div class="one-half with-bg">
+    <div class="one-third with-bg grid">
       {%- include header.html -%}
     </div>
-    <div class="one-half">
+    <div class="two-thirds grid">
       {{ content }}
     </div>
-   
-
- 
-
+    
     {%- include footer.html -%}
 
   </body>
