@@ -14,7 +14,7 @@ Mostly sci-fi stuff. The flatline beeps indicates the heart stopped, [but the br
 
 The Water/Beverage into glass is a visual metaphor used to describe the processes of re-Connection or Revival.
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/DZh6MCja6cs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="620" src="https://www.youtube.com/embed/DZh6MCja6cs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 2. Extraction
@@ -25,7 +25,7 @@ From another point of view the boy in chains depicts the soldier’s mind itself
 Also his mission status is left to the viewers imagination.
 
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/l6D8cC6R-HE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="620" src="https://www.youtube.com/embed/l6D8cC6R-HE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 3. Phasmophobia
@@ -34,7 +34,7 @@ As humans we always fear the unknown, and sometimes we fantasize about a deity/d
 
 A mystic/shaman is conjuring a spirit/demon from the forest.  From the dress code and the drum used by the shaman , it is clear that his ethnicity is red-indian and the female is a Caucasian  descendant.
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/GOAC7LbUO4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="620" src="https://www.youtube.com/embed/GOAC7LbUO4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -43,7 +43,7 @@ A mystic/shaman is conjuring a spirit/demon from the forest.  From the dress cod
 The battle between the creative angel and the devilish editor. Here the female character is depicted as the writer’s figment of imagination. As a writer (creative writer implied by his desk), he struggle to find focus. Suddenly he has an interesting insight and starts typing in a flow.  A pleasant female character in the meadow depicts his imagination/mind. Later when he tries to edit his own work, he destroys his original ideas which is depicted by the dark dressed female.
 
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/eU_q4rpMTEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="620" src="https://www.youtube.com/embed/eU_q4rpMTEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 5. A journey lost in time
 
@@ -54,6 +54,6 @@ The next part shows a female waiting for her loved one (brother, friend, lover).
 Both characters are from different timelines. Longing to be with a loved one is same irrespective of their timelines.
 
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/asnT8vLTZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="620" src="https://www.youtube.com/embed/asnT8vLTZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [sciencealert]: https://www.sciencealert.com/here-s-what-happens-to-brain-when-die-consciousness-death
