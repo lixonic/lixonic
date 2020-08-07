@@ -13,9 +13,9 @@ Its Lockdown 2.0 and i decided to make some shortfilms using metaphors and i sti
 Mostly sci-fi stuff. The flatline beeps indicates the heart stopped, [but the brain is still alive at the moment][sciencealert]. The memories are instantly uploaded to a super computer which process the data and creates a virtual identity of the person. Using cutting edge tech! scientists are able to 3D print the replica of the brain and feeds the processed data so that it acquires consciousness. 
 
 The Water/Beverage into glass is a visual metaphor used to describe the processes of re-Connection or Revival.
-
+<div class='embed-container'>
 <iframe width="100%" height="320" src="https://www.youtube.com/embed/DZh6MCja6cs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 ## 2. Extraction
 
@@ -24,26 +24,26 @@ Extraction is an action of extracting something, especially using effort or forc
 From another point of view the boy in chains depicts the soldier’s mind itself.  He has post traumatic stress and feels low as his past failures haunts him. At that time he tries to master the fear of failure by remembering the experience as a firefighter where a girl is rescued successfully.
 Also his mission status is left to the viewers imagination.
 
-
+<div class='embed-container'>
 <iframe width="100%" height="320" src="https://www.youtube.com/embed/l6D8cC6R-HE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 ## 3. Phasmophobia
 
 As humans we always fear the unknown, and sometimes we fantasize about a deity/demon that haunts us even when we know its unreal; mainly because of our primitive brain. Here the female character is fantasizing her fear  while walking through the woods. The initial scene shows the fog and full moon which are unavoidable elements for a horror genre.  
 
 A mystic/shaman is conjuring a spirit/demon from the forest.  From the dress code and the drum used by the shaman , it is clear that his ethnicity is red-indian and the female is a Caucasian  descendant.
-
+<div class='embed-container'>
 <iframe width="100%" height="320" src="https://www.youtube.com/embed/GOAC7LbUO4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+</div>
 
 ## 4. A Writer's Dilemma
 
 The battle between the creative angel and the devilish editor. Here the female character is depicted as the writer’s figment of imagination. As a writer (creative writer implied by his desk), he struggle to find focus. Suddenly he has an interesting insight and starts typing in a flow.  A pleasant female character in the meadow depicts his imagination/mind. Later when he tries to edit his own work, he destroys his original ideas which is depicted by the dark dressed female.
 
 
-<iframe width="100%" height="320" src="https://www.youtube.com/embed/eU_q4rpMTEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='embed-container'><iframe width="100%" height="320" src="https://www.youtube.com/embed/eU_q4rpMTEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## 5. A journey lost in time
 
@@ -54,6 +54,7 @@ The next part shows a female waiting for her loved one (brother, friend, lover).
 Both characters are from different timelines. Longing to be with a loved one is same irrespective of their timelines.
 
 
-<iframe width="100%" height="320" src="https://www.youtube.com/embed/asnT8vLTZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class='embed-container'><iframe width="100%" height="320" src="https://www.youtube.com/embed/asnT8vLTZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 [sciencealert]: https://www.sciencealert.com/here-s-what-happens-to-brain-when-die-consciousness-death
+ 

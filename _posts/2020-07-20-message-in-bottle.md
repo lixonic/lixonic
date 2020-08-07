@@ -8,4 +8,6 @@ The bottle and the message in it are personified in this video. It's starts the 
 
  Inspired by <a href="https://powerpoetry.org/poems/message-bottle" target="_blank">
         https://powerpoetry.org/poems/message-bottle </a>
+<div class='embed-container'>
 <iframe width="100%" height="320" src="https://www.youtube.com/embed/XUVdrUaaFxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
