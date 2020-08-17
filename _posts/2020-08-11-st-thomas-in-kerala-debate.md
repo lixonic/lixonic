@@ -60,7 +60,7 @@ modified_date:   2020-08-15 01:00:00 +0530
  16. [Malayattoor wiki](https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%82%E0%B5%BC)
 
 <figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Silk_route.jpg/1024px-Silk_route.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Silk_route.jpg/1024px-Silk_route.jpg" width="100%">
 
   <figcaption>Silk Road map showing ancient trade routes.</figcaption> 
 </figure>
