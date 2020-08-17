@@ -38,22 +38,7 @@ modified_date:   2020-08-15 01:00:00 +0530
 
 1. The Christian community in South India was founded by a merchant called Knai Thoma or Thomas of Cana in 345 AD—a name which readily explains the Thomas legend. He led four hundred refugees who fled persecution in Persia and were given asylum by the Hindu authorities.
 
-## Offtopic
-
- The gospel of Thomas (comes from the Gnostic tradition) portrays Jesus as a mystic rather than a moralist and has a different theology.
-
- Because it is a collection of sayings without any external framework contextualizing or politicizing the quotes, some modern scholars accept it to be as reliable a source of the historical Jesus's true words as the other 3 synoptic gospels. However, no Christian Church accepts it as a canonical text, though it does contain a few passages that echo verses in the canonical gospels.
-
-Like mystics in other religions, Jesus says here that spirituality is something you find within, after contemplation and separation from the worldly. Like that of other mystical writers, little of what Jesus says is simplistic, straightforward, or at all logical. For example, Jesus us quoted as saying 
-
-<blockquote>If your leaders say to you, "Look, the (Father's) kingdom is in the sky," then the birds of the sky will precede you.
-If they say to you, "It is in the sea," then the fish will precede you.
-
-Rather, the (Father's) kingdom is within you and it is outside you.
-
-When you know yourselves, then you will be known, and you will understand that you are children of the living Father.
-
-But if you do not know yourselves, then you live in poverty, and you are the poverty.</blockquote>
+ 
 
 ## References
 
@@ -77,7 +62,7 @@ But if you do not know yourselves, then you live in poverty, and you are the pov
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Silk_route.jpg/1024px-Silk_route.jpg">
 
-  <figcaption>Silk Road map showing ancient trade routes.</figcaption>
+  <figcaption>Silk Road map showing ancient trade routes.</figcaption> 
 </figure>
 <figure>
 <img src="/assets/images/pattanam-malayattor.png" width="100%">
