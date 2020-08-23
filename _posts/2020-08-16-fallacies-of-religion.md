@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Common fallacies of religion "
+title:  "Common fallacies in religion "
 date:   2020-08-16 01:00:00 +0530
 ---
 
