@@ -2,7 +2,6 @@
 layout: post
 title:  "Common fallacies of religion "
 date:   2020-08-16 01:00:00 +0530
- 
 ---
 
 ### The Divine Fallacy - Argument From Incredulity
