@@ -31,7 +31,7 @@ Person A : I don't believe in creationism.
 
 </blockquote>
 
-<blockquote> Person B: Yes! its written clearly in scriptures and you don't even know it!   </blockquote>
+<blockquote> Person B: You don't even know the scripture and how am i supposed to explain it to you!   </blockquote>
 
 ### Ad Hominem
 This is an often misused accusation. This fallacy is when someone uses an insult to discredit your argument. it is NOT just insulting someone.
