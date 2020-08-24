@@ -47,6 +47,11 @@ Person A : I don't believe in creationism. Evalution (miss spelled) has been com
 
 This sort of appeal is when somebody asserts that a thought or conviction is correct since it is the thing that the general population accept.
 
+<blockquote>
+Person A : Majority of the christians believed that the earth is flat and the universe is geocentric (as described in bible and supported by major philosophers at that time ) in early middle ages. 
+</blockquote>
+
+
 ### Circular Reasoning 
 <em>Example – “The Bible is the ultimate source of truth. It says so in the Bible, and the Bible is the ultimate source of truth, so it must be true.”</em>
 
