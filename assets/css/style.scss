@@ -9,19 +9,32 @@
   body{
  
     flex-direction: column;
-    
+    .back-btn{
+      border: 1px solid #1756a9;
+      text-decoration: none;
+      padding: 8px 12px;
+      margin-top: 50px;
+      display: inline-block;
+
+    }
     figcaption{
       font-style: italic;
       background: #eee;
       padding: 5px;
     }
-
+    p.small{
+      font-size: 12px;
+      text-align: center;
+    }
     .wrapper{
       background: rgba(0,0,0,.2);
       padding-top: 1rem;
     }
     .grid{
       padding: 20px;
+    }
+    a{
+      text-decoration: underline;
     }
     .one-half{
       padding: 20px;
@@ -35,7 +48,9 @@
         color: #4ed597;
       }
     }
-
+    .post-link{
+      text-decoration: none;
+    }
     .logo{
       border: 2px solid #fff ;
       display: table;
@@ -47,6 +62,8 @@
       }
       a{
         color: #fff;
+        text-decoration: none;
+
       }
     }
 
