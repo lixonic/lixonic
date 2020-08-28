@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enlightenment"
+title:  "Bodhi"
 date:   2020-08-24 00:00:05 +0530
  
 ---
