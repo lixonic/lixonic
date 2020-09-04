@@ -2,6 +2,8 @@
 layout: post
 title:  "Tips for busting christian fundamentalists"
 date:   2020-08-27 01:00:00 +0530
+modified_date:   2020-09-01 01:00:00 +0530 
+
 ---
 
 
@@ -19,8 +21,9 @@ Christian church has often been a patron of sciences, though it did some horrifi
 </blockquote>
 One could argue that it is utter nonsensical to reason with religious people, but at some point only rational thoughts will help these people to alleviate the pain caused by religious dogmatism and moral absolutism. 
 
+I started my spiritual quest as a theist (solely because of childhood indoctrination and poor quality of life) to diest and then to an apatheist. You may wonder why not atheist. Specially atheism and theism are two sides of the same coin in my opinion, just because both cannot agree on a point that existence of GOD doesn't matter in terms of the objective reality of human life. An apathiest on the other hand will be like, if there is a GOD - good!, and if there isn't - very good!
 
-
+These tips are not meant for those who value (christian) culture more than its religion, but for those pious and deluded fools who would not hesitate to start another crusade.
 
 ## Appetizer
 
