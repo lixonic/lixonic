@@ -7,7 +7,7 @@ date:   2022-08-27 01:00:00 +0530
 
 ### Some background
 
-I was a pious catholic till the age for 23, solely because of childhood indoctrination and poor quality of life. Later when I started living life on my own terms, transformation happened from a thiest to deist and then to an apatheist. And I find no difference between an athiest and a theist just because both are extreme on arguing about a supreme god which is highly irrelevant in terms of the objective nature of human existence.  
+<!-- I was a pious catholic till the age for 23, solely because of childhood indoctrination and poor quality of life. Later when I started living life on my own terms, transformation happened from a thiest to deist and then to an apatheist. And I find no difference between an athiest and a theist just because both are extreme on arguing about a supreme god which is highly irrelevant in terms of the objective nature of human existence.   -->
 
 I know for a fact that religion was an ingenious solution to many of mankind's earliest fears and needs.
 Religion has its origins in a desire to explain a very confusing world. It is a wild projection onto the natural realm of all kinds of human concerns. And many of those stories are made implausible by science.
