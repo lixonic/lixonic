@@ -12,7 +12,7 @@ I was a pious catholic till the age for 23, solely because of childhood indoctri
 I know for a fact that religion was an ingenious solution to many of mankind's earliest fears and needs.
 Religion has its origins in a desire to explain a very confusing world. It is a wild projection onto the natural realm of all kinds of human concerns. And many of those stories are made implausible by science.
 
-Christian church has often been a patron of sciences, though it did some horrific deeds in the past. Pontifical academy of sciences is great example to prove that church already scrapped stories and the concept of GOD which fundamentalists hold dear. 
+Christian church has often been a patron of sciences, though it did some horrific deeds in the past. Pontifical academy of sciences is great example to prove that the church has already scrapped stories and the concept of GOD which fundamentalists hold dear. 
 
 <blockquote>
  The Bible is not a science textbook. When it was written, the idea of “science textbooks” didn’t even exist. And to confuse it with a science book does the Bible no honor. Great works of literature, philosophy, or theology are studied as intently today as when they were written, but no scientist actually learns science today from reading, say, Newton’s original works. Science books go out of date only a few years after they are written and must be constantly revised. By contrast, the Bible is timeless. Thus, you can see that the Bible is fundamentally different from a science book ~ vaticanobservatory
@@ -24,7 +24,7 @@ One could argue that it is utter nonsensical to reason with religious people, bu
 
 ## Appetizer
 
-<strong>1.   If bible is the true word of God as is infallible why can't you belive that the earth is flat? </strong>
+<strong>1.   If bible is the true word of God and is infallible why can't you belive that the earth is flat? </strong>
 
 <blockquote>God of bible created heaven & earth first and then the sun and other celestial objects later. This supports geocentric version of universe where the earth is believed to be flat. 
 </blockquote>
