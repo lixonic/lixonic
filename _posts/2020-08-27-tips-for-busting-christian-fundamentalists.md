@@ -23,7 +23,7 @@ One could argue that it is utter nonsensical to reason with religious people, bu
 
 I started my spiritual quest as a theist (solely because of childhood indoctrination and poor quality of life) to diest and then to an apatheist. You may wonder why not atheist. Specially atheism and theism are two sides of the same coin in my opinion, just because both cannot agree on a point that existence of GOD doesn't matter in terms of the objective reality of human life. An apathiest on the other hand will be like, if there is a GOD - good!, and if there isn't - very good!
 
-These tips are not meant for those who value (christian) culture more than its religion, but for those pious and deluded fools who would not hesitate to start another crusade.
+These tips are not meant for those who value (christian) culture and its contribution to science & society, but for those pious and deluded fools who mocks church and cherry picks verses. Obviously those self fooling morons can answer each questions using thier vivid imagination and fallacies.
 
 ## Appetizer
 
@@ -34,6 +34,12 @@ These tips are not meant for those who value (christian) culture more than its r
 
 <strong> 2. If God created humans as a man and woman, where does the other genders (LGBTQ) comes from?</strong>
 
+<strong>3. How did penguins and kangaroos get on Noah’s Ark? If both animals weren't there, can you agree that Noah's god didn't knew about the continents of australia and antartica. Also if they were present in the Ark, how can explain the lack of fossil evidence in the middleeast?</strong>
+
+<blockquote>
+The story of Noah may be part of the Abrahamic canon, but the legend of the Great Flood almost certainly has prebiblical origins, rooted in the ancient civilizations of Mesopotamia. The Sumerian Epic of Gilgamesh dates back nearly 5,000 years and is thought to be perhaps the oldest written tale on the planet. In it, there is an account of the great sage Utnapishtim, who is warned of an imminent flood to be unleashed by wrathful gods. He builds a vast circular-shaped boat, reinforced with tar and pitch, that carries his relatives, grains and animals
+</blockquote>
+
 
 ## Salad
 
@@ -42,8 +48,7 @@ preparing...
 
 ##  Main course
 
-preparing...
-
+<strong> 1. If jesus raised Lazarus of Bethany from the dead, did he die again or lived forever afterwards? (John 11:38-44)</strong>
 ## Dessert
 
 preparing...
@@ -61,3 +66,4 @@ preparing...
  7. [Pontifical Academy of Sciences](http://www.pas.va/content/accademia/en.html)
  8. [Why is the Vatican interested in astronomy](http://www.vaticanobservatory.va/content/specolavaticana/en/science--religion--society/faq-science-religion.html)
  9. [Historicity of the Bible](https://en.wikipedia.org/wiki/Historicity_of_the_Bible)
+ 10. [The Flood of Noah and the Flood of Gilgamesh](https://www.icr.org/article/noah-flood-gilgamesh/)
