@@ -24,7 +24,7 @@ One could argue that it is utter nonsensical to reason with religious people, bu
 
 ## Appetizer
 
-<strong>1.   If bible is the true word of God and is infallible why can't you belive that the earth is flat? </strong>
+<strong>1.   If bible is the true word of God and is infallible why can't you believe that the earth is flat? </strong>
 
 <blockquote>God of bible created heaven & earth first and then the sun and other celestial objects later. This supports geocentric version of universe where the earth is believed to be flat. 
 </blockquote>
