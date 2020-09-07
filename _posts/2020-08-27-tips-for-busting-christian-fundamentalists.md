@@ -16,10 +16,11 @@ Religion has its origins in a desire to explain a very confusing world. It is a 
 
 The Christian church has often been a patron of sciences, though it did some horrific deeds in the past. Pontifical academy of sciences is great example to prove that the church has already scrapped stories and the concept of GOD which fundamentalists hold dear. 
 
+
 <blockquote>
  The Bible is not a science textbook. When it was written, the idea of “science textbooks” didn’t even exist. And to confuse it with a science book does the Bible no honor. Great works of literature, philosophy, or theology are studied as intently today as when they were written, but no scientist actually learns science today from reading, say, Newton’s original works. Science books go out of date only a few years after they are written and must be constantly revised. By contrast, the Bible is timeless. Thus, you can see that the Bible is fundamentally different from a science book ~ vaticanobservatory
 </blockquote>
-One could argue that it is utterly nonsensical to reason with religious people, but at some point only rational thoughts will help these people to alleviate the pain caused by religious dogmatism and moral absolutism. 
+One could argue that it is utterly nonsensical to reason with religious fundamentalist people, but at some point only rational thoughts will help these people to alleviate the pain caused by religious dogmatism and moral absolutism. 
 
 <!-- I started my spiritual quest as theist (solely because of childhood indoctrination) to diest and then to an apatheist. You may wonder why not atheist. Specially atheism and theism are two sides of the same coin in my opinion, just because both cannot agree to a point that the existence of GOD doesn't matter in terms of the objective reality of human life. An apathiest on the other hand will be like, if there is a GOD - good! ,and if there isn't - very good! -->
 
