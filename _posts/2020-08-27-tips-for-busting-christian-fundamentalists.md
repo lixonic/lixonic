@@ -52,10 +52,11 @@ The story of Noah may be part of the Abrahamic canon, but the legend of the Grea
 
 <strong>5. Why in your opinion that GOD decided to destroy all animals on earth as punishment for the crimes of Humans? (Genesis 6:7)</strong>
 <blockquote>
-Semitic religions nevertheless have certain animal-friendly beliefs. The gods gave humans authority
-over the animal kingdom, but this authority carried with it some responsibilities. For example, Jews
-were commanded to allow farm animals to rest on the Sabbath, and whenever possible to avoid
-causing them unnecessary suffering ~ homo deus</blockquote>
+The Bible thinks it is perfectly all right to destroy all animals as punishment for the
+crimes of Homo sapiens, as if the existence of giraffes, pelicans and ladybirds has lost all purpose if
+humans misbehave. The Bible could not imagine a scenario in which God repents having created
+Homo sapiens, wipes this sinful ape off the face of the earth, and then spends eternity enjoying the
+antics of ostriches, kangaroos and panda bears ~ homo deus</blockquote>
 
 ## Salad
 
