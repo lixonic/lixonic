@@ -14,17 +14,17 @@ modified_date:   2020-09-01 01:00:00 +0530
 I know for a fact that religion was an ingenious solution to many of mankind's earliest fears and needs.
 Religion has its origins in a desire to explain a very confusing world. It is a wild projection onto the natural realm of all kinds of human concerns. And many of those stories are made implausible by science.
 
-The Christian church has often been a patron of sciences, though it did some horrific deeds in the past. Pontifical academy of sciences is great example to prove that the church has already scrapped stories and the concept of GOD which fundamentalists hold dear. 
+The Christian church has often been a patron of sciences, though it did some horrific deeds in the past. Pontifical academy of sciences is a great example to prove that the church has already scrapped stories and the concept of GOD which fundamentalists hold dear. 
 
 
 <blockquote>
  The Bible is not a science textbook. When it was written, the idea of “science textbooks” didn’t even exist. And to confuse it with a science book does the Bible no honor. Great works of literature, philosophy, or theology are studied as intently today as when they were written, but no scientist actually learns science today from reading, say, Newton’s original works. Science books go out of date only a few years after they are written and must be constantly revised. By contrast, the Bible is timeless. Thus, you can see that the Bible is fundamentally different from a science book ~ vaticanobservatory
 </blockquote>
-One could argue that it is utterly nonsensical to reason with religious fundamentalist people, but at some point only rational thoughts will help these people to alleviate the pain caused by religious dogmatism and moral absolutism. 
+One could argue that it is utterly nonsensical to reason with religious fundamentalists, but at some point only rational thoughts will help these people to alleviate the agony caused by religious dogmatism and moral absolutism. 
 
 <!-- I started my spiritual quest as theist (solely because of childhood indoctrination) to diest and then to an apatheist. You may wonder why not atheist. Specially atheism and theism are two sides of the same coin in my opinion, just because both cannot agree to a point that the existence of GOD doesn't matter in terms of the objective reality of human life. An apathiest on the other hand will be like, if there is a GOD - good! ,and if there isn't - very good! -->
 
-These questions are not 100% foolproof, but it's enough to taunt those pious and deluded fundamentalist fools who mock to be true Christians and preach their dogma in times of existential crisis. Obviously, their answers will be filled with fallacies and vivid imagination, but it's worth a try when they confront you to preach their personal god of subjective reality.
+<b>These questions are not 100% foolproof</b>, but it's enough to taunt those pious and deluded fundamentalist fools who mock to be the men of god and preach their dogma in times of existential crisis. Obviously, their answers will be filled with fallacies and vivid imagination, but it's worth a try when they confront you with their stupidity.
 
 
 <!-- These tips are not meant for those who value (christian) culture and its contribution to science & society, but for those pious and deluded fools who mocks church and cherry pick verses. Obviously those self fooling morons can answer each question using their vivid imagination and fallacies. -->
@@ -38,12 +38,24 @@ These questions are not 100% foolproof, but it's enough to taunt those pious and
 
 <strong> 2. If God created humans as a man and woman, where does the other genders (LGBTQ) comes from?</strong>
 
-<strong>3. How did penguins and kangaroos get on Noah’s Ark? If both animals weren't there, can you agree that Noah's god didn't knew about the continents of Australia and Antartica. Also if they were present in the Ark, how can explain the lack of fossil evidence in the MiddleEast?</strong>
+<strong> 3. If God created humans in his own image, then this would suggest that God too had a navel which in turn would suggest that God had parents... did God have parents? Did Adam and Eve have parents? </strong>
+
+
+<blockquote>If, as fundamentalists would have us believe, God created all living things as they are now, of course Adam and Eve had navels. However, if that is what He did, why did He give Adam, and all male mammals, nipples? It seems a pointless provision ~ Mike Bird, Maryport, Cumbria </blockquote>
+
+
+<strong>4. How did penguins and kangaroos get on Noah’s Ark? If both animals weren't there, can you agree that Noah's god didn't knew about the continents of Australia and Antartica. Also if they were present in the Ark, how can explain the lack of fossil evidence in the MiddleEast?</strong>
 
 <blockquote>
 The story of Noah may be part of the Abrahamic canon, but the legend of the Great Flood almost certainly has prebiblical origins, rooted in the ancient civilizations of Mesopotamia. The Sumerian Epic of Gilgamesh dates back nearly 5,000 years and is thought to be perhaps the oldest written tale on the planet. In it, there is an account of the great sage Utnapishtim, who is warned of an imminent flood to be unleashed by wrathful gods. He builds a vast circular-shaped boat, reinforced with tar and pitch, that carries his relatives, grains and animals
 </blockquote>
 
+<strong>5. Why in your opinion that GOD decided to destroy all animals on earth as punishment for the crimes of Humans? (Genesis 6:7)</strong>
+<blockquote>
+Semitic religions nevertheless have certain animal-friendly beliefs. The gods gave humans authority
+over the animal kingdom, but this authority carried with it some responsibilities. For example, Jews
+were commanded to allow farm animals to rest on the Sabbath, and whenever possible to avoid
+causing them unnecessary suffering ~ homo deus</blockquote>
 
 ## Salad
 
@@ -71,3 +83,4 @@ preparing...
  8. [Why is the Vatican interested in astronomy](http://www.vaticanobservatory.va/content/specolavaticana/en/science--religion--society/faq-science-religion.html)
  9. [Historicity of the Bible](https://en.wikipedia.org/wiki/Historicity_of_the_Bible)
  10. [The Flood of Noah and the Flood of Gilgamesh](https://www.icr.org/article/noah-flood-gilgamesh/)
+ 11. [Did Adam and Eve have navels?](https://www.theguardian.com/notesandqueries/query/0,,-6189,00.html)
