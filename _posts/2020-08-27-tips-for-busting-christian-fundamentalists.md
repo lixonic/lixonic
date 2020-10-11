@@ -93,7 +93,7 @@ According to the Luke gospel, Jesus had 41 ancestors since David, according to t
 
 <strong> 4. When jesus raised Lazarus of Bethany from the dead, did he die again or lived forever afterwards? (John 11:38-44)</strong>
 ## Dessert
-<strong> 1. Incorruptibility of Catholic Saints. Latest victim is Carlo Acutis whose body is appeared to be preserved from the natural process of decay after his death in 2006</strong>
+<strong> 1. Incorruptibility of Catholic Saints. Latest victim is Carlo Acutis whose body appeared to be preserved from the natural process of decay after his death in 2006</strong>
  <blockquote>  Incorruptibility is the idea that if you're holy enough your body won't rot away after death and you may be a saint. It's one of many bizarre ideas in the doctrinal body of Roman Catholicism and Eastern Orthodox Christianity, although similar ideas can be found in other religions</blockquote>
 Bishop Domenico Sorrentino of Assisi clarified Oct. 1 that Carlo’s body (pictured), though intact, “was found in the normal state of transformation typical of the cadaveric condition.” Carlo’s body was arranged with dignity for its display for public veneration and a <strong> silicone reconstruction of his face </strong> used, he said.
 
