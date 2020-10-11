@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips for busting christian fundamentalists"
 date:   2020-08-27 01:00:00 +0530
-modified_date:   2020-09-01 01:00:00 +0530 
+modified_date:   2020-10-10 01:00:00 +0530 
 
 ---
 
