@@ -24,7 +24,7 @@ One could argue that it is utterly nonsensical to reason with religious fundamen
 
 <!-- I started my spiritual quest as theist (solely because of childhood indoctrination) to diest and then to an apatheist. You may wonder why not atheist. Specially atheism and theism are two sides of the same coin in my opinion, just because both cannot agree to a point that the existence of GOD doesn't matter in terms of the objective reality of human life. An apathiest on the other hand will be like, if there is a GOD - good! ,and if there isn't - very good! -->
 
-<b>I'm not claiming that the arguments and facts given below are not infallible</b>, but it's enough to taunt those pious and deluded fundamentalist fools who mock to be the men of god and preach their dogma in times of existential crisis. Obviously, their answers will be filled with fallacies and vivid imagination, but it's worth a try when they confront you with their stupidity.
+<b>I'm not claiming that the arguments and facts given below are infallible</b>, but it's enough to taunt those pious and deluded fundamentalist fools who mock to be the men of god and preach their dogma in times of existential crisis. Obviously, their answers will be filled with fallacies and vivid imagination, but it's worth a try when they confront you with their stupidity.
 
 
 <!-- These tips are not meant for those who value (christian) culture and its contribution to science & society, but for those pious and deluded fools who mocks church and cherry pick verses. Obviously those self fooling morons can answer each question using their vivid imagination and fallacies. -->
